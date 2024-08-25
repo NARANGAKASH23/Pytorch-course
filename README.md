@@ -1,2 +1,2 @@
-# Pytorch-course
-Pytorch course
+This repository is all about Pytorch.
+
